@@ -2,7 +2,7 @@
 このテキストは、Pythonチュートリアル(3.9.1)のＷｅｂサイトの内容をjupyter Notebookで実際に動かしながら学習できるように編集したものです。  
 ※オリジナルのサイトに加え、わかりにくいと思われる箇所の補足説明や、ipythonでコードが実行できるようにテストデータを作成するコードの追加等を実施しています  
   
-<font color=blue>ファイルをダウンロードして、Jupyter notebookの環境、またはGoogleコラボ上で実行してください。<font>  
+<font color=blue>ファイルをダウンロードして、Jupyter notebookの環境、またはGoogleコラボ上で実行してください。</font>  
   + Pythonチュートリアル_1_4.ipynb  : １章から４章まで
   + Pythonチュートリアル_5_8.ipynb  : ５章から８章まで
   + Pythonチュートリアル_9_16.ipynb : ９章から１６章まで
